@@ -1,0 +1,6 @@
+
+> estadoxequipo-server@1.0.0 start
+> node app.js
+
+Conexión a la BD deshabilitada (usando mock data)
+Servidor corriendo en http://localhost:3001
